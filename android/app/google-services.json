@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532076454667",
+    "project_id": "earlybazewallet-2892d",
+    "storage_bucket": "earlybazewallet-2892d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532076454667:android:f04158d0aa3a19d05bf80e",
+        "android_client_info": {
+          "package_name": "com.wallet.earlybaze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNn1GonGMlIVV8W0DuTSDXaGc_mXJFdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
